@@ -3,4 +3,6 @@
 It is demonstration on Readme Markdown file 
 
 
-Changes made
+//deleted not required
+
+Some modifiactions are done.
